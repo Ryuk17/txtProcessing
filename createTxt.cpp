@@ -1,5 +1,6 @@
-// createTxt.cpp : ¶¨Òå¿ØÖÆÌ¨Ó¦ÓÃ³ÌĞòµÄÈë¿Úµã¡£
-//
+/*createTxt.cpp : å®šä¹‰æ§åˆ¶å°åº”ç”¨ç¨‹åºçš„å…¥å£ç‚¹ã€‚
+ copyrightÂ©2017DandelionLau
+*/
 
 #include "stdafx.h"
 #include<io.h>
