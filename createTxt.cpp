@@ -1,5 +1,5 @@
-/*createTxt.cpp : 定义控制台应用程序的入口点。
- copyright©2017DandelionLau
+/* 
+create txt with a specific in a given path
 */
 
 #include "stdafx.h"
@@ -14,7 +14,7 @@ int main()
 {	
 	char *filename[3] = {"data.txt","test.txt","out.txt"};
 	for (int i = 0;i < 3;i++) {
-		string path = "";
+		string path = "C:\\desktop\\";
 		fstream fn;
 		string name = path.append(filename[i]);
 		fn.open( name,ofstream::out);
