@@ -33,3 +33,6 @@ ____
 16,17,18,19,20  
 ____
 use readInToMatrix() to read the txt
+
+# txtConnector
+connect two txt files by line
