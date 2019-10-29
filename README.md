@@ -1,8 +1,8 @@
 
 
 
-#####<a href="#第一段的锚点名称">第一段标题</a>
-####<a name="第一段的锚点名称">第一段标题</a>
+<a href="#第一段的锚点名称">开始</a>  
+
 
 
 # txtCreator
@@ -43,3 +43,4 @@ use readInToMatrix() to read the txt
 
 # txtConnector
 connect two txt files by line
+<a name="第一段的锚点名称"> 结束</a>
