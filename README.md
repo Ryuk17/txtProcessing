@@ -1,6 +1,4 @@
 
-##<a href="#RL-NAS">1. RL NAS——Neural architecture search with reinforcement learning](# RL-NAS</a>
-
 # txtCreator
 create txt with specific filename in a given path 
 
@@ -39,4 +37,3 @@ use readInToMatrix() to read the txt
 
 # txtConnector
 connect two txt files by line
-####<a name="RL-NAS">1. RL NAS——Neural architecture search with reinforcement learning](# RL-NAS</a>
