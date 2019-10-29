@@ -1,10 +1,3 @@
-
-
-
-<a href="#第一段的锚点名称">开始</a>  
-
-
-
 # txtCreator
 create txt with specific filename in a given path 
 
@@ -43,4 +36,3 @@ use readInToMatrix() to read the txt
 
 # txtConnector
 connect two txt files by line
-<a name="第一段的锚点名称"> 结束</a>
